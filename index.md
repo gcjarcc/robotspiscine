@@ -1,5 +1,9 @@
-Toute l'info sur l'entretien
-des piscines
+---
+layout: default
+title: Robots Piscine - Toute l'info sur l'entretien des piscines
+---
+
+Toute l'info sur l'entretien des piscines
 Comment nettoyer l’eau verte de sa piscine ?
 Comment nettoyer l’eau verte de sa piscine ?
 By RobotsPiscine | 15 Juin 2017
