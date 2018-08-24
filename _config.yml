@@ -1,4 +1,4 @@
-remote_theme: mark-otto/poole
+remote_theme: mmistakes/jekyll-theme-basically-basic
 plugins:
   - jekyll-seo-tag
 title: Robots Piscine
