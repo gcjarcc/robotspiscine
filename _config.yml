@@ -1,4 +1,5 @@
 remote_theme: mmistakes/jekyll-theme-basically-basic
+name: Robots Piscine
 plugins:
   - jekyll-seo-tag
 title: Robots Piscine
